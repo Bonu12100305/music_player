@@ -30,14 +30,14 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Dawn",
+      "サクラカゼ",
       "Me & You",
       "Electro Boy",
       "Home",
       "Proxy (Original Mix)"
     ],
     trackNames = [
-      "Skylike - Dawn",
+      "Sakura Miko - Sakurakaze",
       "Alex Skrindo - Me & You",
       "Kaaze - Electro Boy",
       "Jordan Schor - Home",
@@ -45,7 +45,7 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/2.mp3",
+      "https://cdn.discordapp.com/attachments/821519721709961221/1183204956849831936/Piano_ver._holo_remix_72rieu-5czY.m4a",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
